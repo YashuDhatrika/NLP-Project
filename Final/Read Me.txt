@@ -1,0 +1,5 @@
+The paraphrasing is done in DataProcessing_Paraphrase.ipynb - It gives as output new_train.nl and new_train.sql
+
+The TextToSQL_(Seq2Seq).ipynb file has the implementation of Encoder-Decoder and Attention-Based Model.
+
+mlcl_probabistic_approach.py has the implementation of probabilistic based approaches.
